@@ -1,7 +1,28 @@
 Sphinx resources
 ================
 
-Sphinx cheat sheet
-------------------
+Installing Python
+-----------------
 
-`Sphinx cheat sheet <http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/source/sphinx/rest_syntax.html#internal-and-external-links>`_
+`Python <https://www.python.org/downloads/>`_
+
+Installing Sphinx
+-----------------
+
+`Installing Sphinx <https://www.sphinx-doc.org/en/master/usage/installation.html>`_
+
+Installing MiKTeX
+----------------
+
+`Install MiKTeX on Windows <https://miktex.org/howto/install-miktex>`_
+
+Sphinx cheat sheets
+-------------------
+
+`reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
+
+`OpenAlea Document Center - Restructured Text (reST) and Sphinx CheatSheet <http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/source/sphinx/rest_syntax.html>`_
+
+`Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
+
+`ReStructuredText - Tips and Tricks <https://wiki.koha-community.org/wiki/ReStructuredText_-_Tips_and_Tricks>`_
