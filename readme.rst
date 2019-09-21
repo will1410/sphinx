@@ -26,3 +26,8 @@ Sphinx cheat sheets
 `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
 
 `ReStructuredText - Tips and Tricks <https://wiki.koha-community.org/wiki/ReStructuredText_-_Tips_and_Tricks>`_
+
+Sphinx directives
+-----------------
+
+`Directives <https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html>`_
