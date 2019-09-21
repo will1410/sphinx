@@ -41,3 +41,19 @@ Creating a Sphinx project
 You should have Python, Sphinx, and MiKTeX installed by the time you get to this point.
 
 Open cmd and navigate to the folder where your repository is.
+
+The command string is
+
+``
+sphinx-quickstart
+``
+
+Follow the guides on the screen.
+
+``
+make html
+``
+
+``
+make latex
+``
