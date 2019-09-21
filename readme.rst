@@ -31,3 +31,13 @@ Sphinx directives
 -----------------
 
 `Directives <https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html>`_
+
+
+Creating a Sphinx project
+-------------------------
+
+`Getting Started <https://www.sphinx-doc.org/en/master/usage/quickstart.html>`_
+
+You should have Python, Sphinx, and MiKTeX installed by the time you get to this point.
+
+Open cmd and navigate to the folder where your repository is.
