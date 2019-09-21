@@ -48,7 +48,7 @@ The command string is
 sphinx-quickstart
 ``
 
-Follow the guides on the screen.
+Follow the guides on the screen for setup.
 
 ``
 make html
@@ -57,3 +57,17 @@ make html
 ``
 make latex
 ``
+
+Modifying the configuration files
+---------------------------------
+
+`Configuration documentation <https://www.sphinx-doc.org/en/master/usage/configuration.html>`_
+
+Themes
+------
+
+`Themes documentation <https://www.sphinx-doc.org/en/master/theming.html>`_
+
+`Built in themes <https://www.sphinx-doc.org/en/master/usage/theming.html#builtin-themes>`_
+
+`Additional themes <https://sphinx-themes.org/>`_
